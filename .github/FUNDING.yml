@@ -1,0 +1,7 @@
+# BSOL Funding Configuration - Minimal, no banking setup required
+# Only custom links for direct BTC and official page
+
+custom:
+  - "https://github.com/MoloBTC-Org/bsol/blob/main/DONATIONS.md"  # Full donations details
+  - "btc: [see website]"
+  - "https://www.MoloBTC.africa"  # Official stewardship page for latest details & Lightning if added
