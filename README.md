@@ -12,7 +12,7 @@
 
 The **Bitcoin Sovereign Open Source License (BSOL) v1.0** is a permissive, forkable open license designed specifically for Bitcoin-related code, papers, analyses, curricula, declarations, designs, and reference implementations.
 
-It combines the legal strength of the Apache 2.0 grant with Bitcoin-native sovereign principles: radical freedom of use (“take it, fork it, use it freely”), explicit fork rights, pseudonymity, privacy-preserving development, encrypted channels, the right to remain silent, and free-speech safe harbour for all ideas — including contentious or adversarial testing.
+It combines the legal strength of the Apache 2.0 grant with Bitcoin-native sovereign principles: radical freedom of use, explicit fork rights, pseudonymity, privacy-preserving development, encrypted channels, the right to remain silent, and free-speech safe harbour for all ideas.
 
 BSOL treats knowledge and code as non-rivalrous. It rejects artificial enclosure and affirms that the protocol’s mathematics is bedrock.
 
@@ -46,43 +46,30 @@ This npub serves as the permanent verification layer that travels with hard copi
 
 ## Using This Repository as a Template
 
-This repository (`MoloBTC-Org/bsol`) serves as **THE STANDARD** template for all future MoloBTC repositories.
+This repository (`MoloBTC-Org/bsol`) serves as **THE STANDARD** — the official template and governance baseline for all future MoloBTC repositories.
 
 ### Quick Start – Create a New Repo from This Template
-1. Click **Use this template** (green button at the top of the repo).
-2. Choose a new repository name and visibility.
-3. The new repo will include:
-   - **BSOL v1.0** as the default license (`LICENSE.md`)
-   - Professional governance baseline (`CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, PR template, labels, etc.)
-   - Sovereign Bitcoin flavour and documentation standards
+1. On this repository page, click the green **"Use this template"** button.
+2. Choose a new repository name and visibility (Public or Private).
+3. The new repository will automatically include:
+   - **BSOL v1.0** as the default license
+   - Professional governance files (`CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, PR template, labels)
+   - The complete mechanical and documentation structure
 
 ### What You Get
-- **License**: Bitcoin Sovereign Open Source License (BSOL) v1.0 — ready to use or adapt.
-- **Governance**: Open debate via Discussions → structured proposals → reviewed Pull Requests (CODEOWNERS + branch protection).
-- **Bitcoin Values Alignment**: Built into review criteria and Code of Conduct.
-- **Professional Structure**: Clean root + `.github/` organisation for easy maintenance across multiple repos.
-- **One-Click Friendly**: Minimal manual setup required for new documentation or code projects.
+- Default license under the Bitcoin Sovereign Open Source License (BSOL) v1.0
+- Open debate via Discussions + structured, reviewed contributions (CODEOWNERS + branch protection)
+- Consistent professional standards and Bitcoin sovereignty flavour
+- Ready-to-use governance scaffolding for documentation or code projects
 
 ### Recommended Next Steps After Creating from Template
-- Update `README.md`, `LICENSE.md` references, and steward information as needed.
-- Review and customise labels if desired.
-- Instantiate the Project Board (template available in `.github/governance/`).
-- Add your own content while maintaining the “neat and tidy” standard for official publications.
+- Update project-specific details in `README.md`, `LICENSE.md`, and steward information.
+- Review and activate labels, Project Board, and Discussions categories.
+- Customize the governance folder (`.github/governance/`) only if needed — the defaults are designed to scale.
 
-### Governance & Sovereignty
-**Steward**: Jacques Strydom, PMP (Jabulani Jakes)  
-**Published by**: MoloBTC-Org  
+This template approach ensures every MoloBTC repository starts with the same high professional baseline while preserving full sovereignty.
 
-This repository and the BSOL license are stewarded with a focus on Bitcoin sovereignty, open truth-seeking, and professional project governance. All contributions and framework evolution follow a structured process (open debate in Discussions → reviewed Pull Requests) designed to maintain clarity, accuracy, and alignment with voluntary, verifiable, and sovereign principles.
-
-Full governance documentation (branch protection, CODEOWNERS, labels, implementation guides) lives in the `.github/governance/` folder.  
-This structure is designed to scale across the entire MoloBTC portfolio while preserving Bitcoin sovereignty principles.
-
-For the canonical BSOL license and Sovereign Knowledge Declaration, see:
-- [LICENSE.md](LICENSE.md)
-- [SOVEREIGN-KNOWLEDGE-DECLARATION.md](SOVEREIGN-KNOWLEDGE-DECLARATION.md)
-
-**Questions?** Open a Discussion or reach out via the Nostr key listed above.
+**Questions or contributions?** Open a Discussion or reach out via the Nostr key below.
 
 ## References
 
