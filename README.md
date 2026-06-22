@@ -70,6 +70,11 @@ This repository (`MoloBTC-Org/bsol`) serves as **THE STANDARD** template for all
 - Add your own content while maintaining the “neat and tidy” standard for official publications.
 
 ### Governance & Sovereignty
+**Steward**: Jacques Strydom, PMP (Jabulani Jakes)  
+**Published by**: MoloBTC-Org  
+
+This repository and the BSOL license are stewarded with a focus on Bitcoin sovereignty, open truth-seeking, and professional project governance. All contributions and framework evolution follow a structured process (open debate in Discussions → reviewed Pull Requests) designed to maintain clarity, accuracy, and alignment with voluntary, verifiable, and sovereign principles.
+
 Full governance documentation (branch protection, CODEOWNERS, labels, implementation guides) lives in the `.github/governance/` folder.  
 This structure is designed to scale across the entire MoloBTC portfolio while preserving Bitcoin sovereignty principles.
 
