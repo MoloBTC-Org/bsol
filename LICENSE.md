@@ -1,4 +1,4 @@
-# Bitcoin Sovereign Open License (BSOL) v1.0
+# Bitcoin Sovereign Open Source License (BSOL) v1.0
 
 Copyright is granted to the reader by the publisher  
 MoloBTC-Org / Jacques Strydom, PMP (Jabulani Jakes)  
@@ -10,11 +10,11 @@ A voluntary gift to the Bitcoin open-source commons.
 
 ## Preamble
 
-This entire work — including the textbook, living guideline, historical analysis, reference implementation fork, all templates, matrices, code listings, and all future updates — is released under the Bitcoin Sovereign Open License (BSOL).
+This entire work — including the textbook, living guideline, historical analysis, reference implementation fork, all templates, matrices, code listings, and all future updates — is released under the Bitcoin Sovereign Open Source License (BSOL).
 
 BSOL consists of two parts:
 
-1. The immutable canonical MIT License (SPDX: MIT) — the legal grant of rights.
+1. The Apache License 2.0 (SPDX: Apache-2.0) — the legal grant of rights, including an explicit patent license.
 2. The Sovereign Open-Source Clause — the philosophical and operational commitments that protect sovereignty, pseudonymity, fork rights, and free speech in the Bitcoin ecosystem.
 
 BSOL is designed for code, papers, analyses, curricula, declarations, designs, and reference implementations that advance Bitcoin sovereignty.
