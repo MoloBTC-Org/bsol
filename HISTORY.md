@@ -2,37 +2,38 @@
 
 ## Overview
 
-The **Bitcoin Sovereign Open Source License (BSOL) v1.0** is a permissive, forkable open license designed specifically for Bitcoin-related works — including code, papers, analyses, curricula, declarations, designs, and reference implementations.
+BSOL v1.0 is a Bitcoin-native gift license for code, papers, analyses, curricula, declarations, designs, and reference implementations.
 
-Explicit Bitcoin-native sovereign principles apply: radical freedom of use, fork rights, pseudonymity, privacy-preserving development, encrypted channels, and free-speech safe harbour.
+It refuses enclosure of the Work. It places no responsibility on the user. Attribution is honesty of method, not a toll.
 
-BSOL treats knowledge and code as non-rivalrous. It rejects artificial enclosure and affirms that the protocol’s mathematics is bedrock.
+This license is not Bitcoin and confers no authority over Bitcoin.
 
 ## Development
 
-BSOL was developed iteratively through structured collaboration between Jacques Strydom, PMP (Jabulani Jakes / MoloBTC-Org) and Grok by xAI. This partnership enabled high structural rigour and clear articulation of sovereign principles.
+BSOL was written through structured collaboration between Jacques Strydom, PMP (Jabulani Jakes / MoloBTC-Org) and Grok by xAI.
 
-The final v1.0 release unifies these principles into a single, coherent license suitable for the entire Bitcoin knowledge ecosystem.
+Early drafts borrowed shape from existing permissive grants. The published direction is a new instrument in its own language: a gift to the commons, disconnected from the duties of those other grants.
 
-## Key Companion Document
+v1.0 was first published in June 2026. Later correction removed leftover duty language so the text matches the gift.
 
-**Sovereign Bitcoin Knowledge Declaration v1.0**  
-Released alongside BSOL v1.0, this manifesto articulates the philosophical foundations of sovereign Bitcoin knowledge — including principles of non-rivalrous knowledge, lineage from cypherpunks to Bitcoin, operational discipline for sovereign nodes, and a call to propagation (“the knowledge lives by the copy”).
+## Companion document
 
-## Role of This Repository
+**Sovereign Bitcoin Knowledge Declaration v1.0** states the argument: knowledge is non-rivalrous, copying is not theft, enclosure is the distortion, and the protocol’s mathematics is bedrock.
 
-This repository (`MoloBTC-Org/bsol`) serves as:
-- The **canonical home** for BSOL v1.0 and the Sovereign Bitcoin Knowledge Declaration.
+## This repository
 
-Future MoloBTC projects can be created from this template to inherit professional structure, sovereign licensing, and consistent documentation standards while preserving full sovereignty.
+This repository is the canonical home of BSOL v1.0 and the Declaration.
 
-## Current Status (June 2026)
+It is not a project-management template.
+
+## Status
 
 - BSOL v1.0 published
 - Sovereign Bitcoin Knowledge Declaration v1.0 published
+- Prior published wording remains valid for works that already adopted it
 
 ---
 
 **Truthful. Aligned. Sovereign. Forkable.**
 
-*Initiated and published by MoloBTC-Org • Steward: Jacques Strydom, PMP (Jabulani Jakes)*
+*MoloBTC-Org • Jacques Strydom, PMP (Jabulani Jakes)*

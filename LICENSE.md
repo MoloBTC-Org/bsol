@@ -1,70 +1,69 @@
 # Bitcoin Sovereign Open Source License (BSOL) v1.0
 
-MoloBTC-Org / Jacques Strydom, PMP (Jabulani Jakes)  
-under the terms of this License.
+Published by MoloBTC-Org  
+Steward: Jacques Strydom, PMP (Jabulani Jakes)
 
 A voluntary gift to the Bitcoin open-source commons.
+
+This text is not Bitcoin and confers no authority over Bitcoin.  
+Bitcoin proliferated because of the protocol and the absence of a licensor.  
+This license exists only to refuse enclosure of the Work.
 
 ---
 
 ## Preamble
 
-This entire work is released under the Bitcoin Sovereign Open Source License (BSOL).
+Anyone who publishes a work under BSOL is gifting that work to the commons.
 
-BSOL consists of a pastiche of licenses, plus;
+The recipient may use it without asking, without conditions, and without responsibility to the publisher.
 
-The Sovereign Open-Source Clause — the philosophical and operational commitments that protect sovereignty, pseudonymity, fork rights, and free speech in the Bitcoin ecosystem.
+Attribution is honesty of method. It is not a toll. It is not required.
 
-BSOL is designed for code, papers, analyses, curricula, declarations, designs, and reference implementations that advance Bitcoin sovereignty.
-
----
-
-## 1. Definitions
-
-**"License"** means this document.
-
-**"Work"** means the copyrighted work of authorship offered under this License.
-
-**"You"** (or "Your") means an individual or Legal Entity exercising permissions granted by this License.
+The publisher does not enforce this license against users of the Work.
 
 ---
 
-## 2. Grant of Copyright License
+## 1. Gift
 
-Each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+The Work is the text, code, design, curriculum, declaration, analysis, or other material released under this license.
 
----
+You may copy, verify, fork, run, study, modify, repair, publish, and share the Work, in whole or in part, for any purpose, including commercial purpose.
 
----
+You need not give notice.  
+You need not keep this file.  
+You need not mark your changes.  
+You need not accept these words in order to use the Work.  
+You need not share the publisher’s politics.
 
-## 4. Sovereign Freedoms
-
-In addition to the grants above, the following sovereign protections are affirmed for all users of this License:
-
-- **Pseudonymity**: You may publish, fork, and contribute under any name or pseudonym you choose. No real-world identity is required.
-- **Fork Rights**: You have the explicit right to fork the Work at any time for any reason, including disagreement with direction or governance.
-- **Encrypted Channels**: You may communicate, coordinate, and develop using encrypted channels without restriction.
-- **Right to Remain Silent**: You are not required to justify, explain, or defend your use, fork, or contribution.
-- **Free Speech Safe Harbour**: No idea, proposal, critique, or adversarial testing may be censored or punished under this License solely for its content.
-
-These protections exist to preserve the cypherpunk and sovereign character of Bitcoin development.
+If this Work helps someone run, verify, fork, or repair their own setup, this license will not be the thing that stops them.
 
 ---
 
----
+## 2. Sovereign Freedoms
 
-## 6. Disclaimer of Warranty
+These statements describe the authors’ intent. They do not add conditions.
 
-Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
-
----
-
-## 7. Limitation of Liability
-
-In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
-
----
+- You may publish, fork, and contribute under any name or no name.
+- You may fork for any reason, including disagreement.
+- You may coordinate over encrypted channels.
+- You need not explain your use.
+- This license will not be used to punish speech, critique, or adversarial testing.
+- Authors request, but do not require, that this Work not be used to withhold a user’s keys or to prevent a user from running an independent copy.
 
 ---
 
+## 3. No Warranty
+
+The Work is provided as is, without warranty of any kind, express or implied, including title, non-infringement, merchantability, or fitness for a particular purpose.
+
+You decide whether the Work is fit for your use. You assume the risk of using it.
+
 ---
+
+## 4. No Liability
+
+To the fullest extent permitted by law, the publisher and authors are not liable for any damages arising from this license or from use of the Work, including direct, indirect, incidental, special, or consequential damages, even if told that such damages were possible.
+
+---
+
+Prior published versions of this text remain valid for works that already adopted them.
