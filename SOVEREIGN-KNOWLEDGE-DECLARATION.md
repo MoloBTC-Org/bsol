@@ -66,7 +66,7 @@ This is the work of ordinary hands. Stop asking. The rest is yours.
 Practical tools exist across categories to support independent verification, privacy, self-hosting, and knowledge preservation:
 
 - **Shadow Libraries & Open Access**: Meta-indexes and direct sources for books, papers, and archives (e.g., Anna’s Archive, Library Genesis, Sci-Hub).
-- **Local & Self-Hosted Systems**: Tools for running models, servers, and services under your own control (e.g., Ollama, various self-hosting stacks).
+- **Local & Self-Hosted Systems**: Tools for running models, servers, and services under your own control (e.g., Ollama, various self-hosting stacks, www.github.com/molobtc-org/sgas).
 - **Privacy & Anonymity**: Browsers, networks, and operating systems designed to minimize tracking and surveillance (e.g., Tor, privacy-focused browsers and extensions, amnesic live systems).
 - **Encrypted Communication**: End-to-end encrypted messaging that does not rely on central providers.
 - **Right to Repair & Open Hardware**: Resources and communities supporting modification, repair, and open designs.
