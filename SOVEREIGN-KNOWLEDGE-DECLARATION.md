@@ -1,3 +1,7 @@
+This Declaration is gifted under BSOL v1.0.
+The recipient has no duties; attribution is voluntary.
+---
+
 Sovereign Bitcoin Knowledge Declaration
 Version 1.0
 Released under the Bitcoin Sovereign Open License (BSOL) v1.0
